@@ -27,6 +27,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 ## Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mateus1619&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateus1619&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus1619&layout=compact)
 
 ## Tecnologias e Ferramentas
 
